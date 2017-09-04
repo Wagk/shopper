@@ -1,0 +1,160 @@
+{
+    "alpine parsnip": null,
+    "animal hide": null,
+    "animal sinew": null,
+    "animal skin": null,
+    "ash log": null,
+    "ash lumber": {
+        "ash log": 3
+    },
+    "ash mask": {
+        "ash lumber": 1,
+        "fish oil": 1,
+        "leather": 1
+    },
+    "beast sinew": null,
+    "beastkin blood": null,
+    "brass head knife": {
+        "brass ingot": 1,
+        "bronze head knife": 1,
+        "ragstone whetstone": 1
+    },
+    "brass ingot": null,
+    "brass rings": {
+        "brass ingot": 1
+    },
+    "brass wristlets of crafting": {
+        "brass ingot": 1,
+        "brass rings": 2
+    },
+    "bronze barbut": {
+        "bronze plate": 1,
+        "bronze rivets": 1,
+        "copper ingot": 1
+    },
+    "bronze buckler": {
+        "bronze ingot": 1,
+        "bronze plate": 1,
+        "iron rivets": 1
+    },
+    "bronze head knife": {
+        "bronze ingot": 1,
+        "maple lumber": 1,
+        "ragstone whetstone": 1
+    },
+    "bronze ingot": {
+        "copper ore": 2,
+        "tin ore": 1
+    },
+    "bronze plate": {
+        "bronze ingot": 2
+    },
+    "bronze rivets": {
+        "bronze ingot": 1
+    },
+    "buffalo beans": null,
+    "cieldalaes spinach": null,
+    "cinderfoot olive": null,
+    "copper ingot": {
+        "copper ore": 3
+    },
+    "copper ore": null,
+    "cotton boll": null,
+    "cotton shepherd's slops": {
+        "cotton yarn": 2,
+        "undyed cotton cloth": 2,
+        "undyed hempen cloth": 1
+    },
+    "cotton yarn": {
+        "cotton boll": 2
+    },
+    "decorated bronze barbut": {
+        "brass ingot": 1,
+        "bronze barbut": 1,
+        "copper ingot": 1
+    },
+    "distilled water": {
+        "muddy water": 1
+    },
+    "fish oil": {
+        "princess trout": 2
+    },
+    "grilled carp": {
+        "maiden carp": 1,
+        "table salt": 1
+    },
+    "hard leather": {
+        "animal hide": 1
+    },
+    "hard leather caligae": {
+        "beast sinew": 1,
+        "bronze rivets": 1,
+        "hard leather": 1
+    },
+    "hempen yarn": {
+        "moko grass": 2
+    },
+    "iron ingot": {
+        "iron ore": 3
+    },
+    "iron ore": null,
+    "iron rivets": {
+        "iron ingot": 1
+    },
+    "la noscean lettuce": null,
+    "leather": {
+        "animal skin": 1
+    },
+    "leather calot": {
+        "leather": 1
+    },
+    "leather wristguards": {
+        "animal sinew": 1,
+        "leather": 1
+    },
+    "maiden carp": null,
+    "maple clogs": {
+        "maple lumber": 1
+    },
+    "maple log": null,
+    "maple lumber": {
+        "maple log": 3
+    },
+    "mineral water": null,
+    "moko grass": null,
+    "muddy water": null,
+    "olive oil": {
+        "cinderfoot olive": 1
+    },
+    "parsnip salad": {
+        "alpine parsnip": 1,
+        "buffalo beans": 1,
+        "cieldalaes spinach": 1,
+        "la noscean lettuce": 1,
+        "mineral water": 1,
+        "olive oil": 1
+    },
+    "potion of intelligence": {
+        "beastkin blood": 1,
+        "red landtrap leaf": 1,
+        "rock salt": 1
+    },
+    "princess trout": null,
+    "ragstone": null,
+    "ragstone whetstone": {
+        "ragstone": 2
+    },
+    "red landtrap leaf": null,
+    "rock salt": null,
+    "table salt": {
+        "distilled water": 1,
+        "rock salt": 1
+    },
+    "tin ore": null,
+    "undyed cotton cloth": {
+        "cotton yarn": 2
+    },
+    "undyed hempen cloth": {
+        "hempen yarn": 2
+    }
+}
